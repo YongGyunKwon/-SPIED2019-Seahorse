@@ -1,0 +1,8 @@
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/dark.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/uselib.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/darknet.dir
+C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug/CMakeFiles/list_install_components.dir

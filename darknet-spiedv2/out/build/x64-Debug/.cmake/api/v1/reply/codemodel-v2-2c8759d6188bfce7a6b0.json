@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Darknet",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dark-Debug-308566b2bbaad769eec5.json",
+					"name" : "dark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "darknet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-darknet-Debug-56cd17e0eccad5715b55.json",
+					"name" : "darknet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uselib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uselib-Debug-de028a997248d6ad80b1.json",
+					"name" : "uselib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2/out/build/x64-Debug",
+		"source" : "C:/Users/ygkwo/Desktop/darknet-spiedv2/darknet-spiedv2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
